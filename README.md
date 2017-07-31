@@ -1,2 +1,2 @@
 # jiaanpei
-This is a repository about Jiaanpei e-commerce platform including vehicle's after-sale market including accidents, maintenance and repair.
+Jiaanpei is an e-commerce platform mainly focusing on vehicle's after-sale market including accidents, maintenance and repair.
